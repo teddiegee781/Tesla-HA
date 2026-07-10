@@ -1,2 +1,4 @@
-# Tesla-HA
-Tesla-HA
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3vXGrty2w8+kOith3meb9w3MnBKG
+Dy4hcuNtz4yD1DEoYaGIlHa7Bhvns6+VtIdsvZohhbYUv36yVOJEoE/KzQ==
+-----END PUBLIC KEY-----
